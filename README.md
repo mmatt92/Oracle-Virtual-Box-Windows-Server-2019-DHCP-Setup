@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 
-In this lab I configure a DHCP server network within VirtualBox using Windows Server 2019. This assumes you have already downloaded and installed VirtualBox and Windows Server with user interface. 
+In this lab I configure a DHCP server network within VirtualBox using Windows Server 2019. 
 <br />
 
 
